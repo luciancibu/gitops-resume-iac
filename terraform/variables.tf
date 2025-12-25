@@ -9,5 +9,3 @@ variable "clusterName" {
   type        = string
   default     = "resume-eks"
 }
-
-# gitops-resume-actions-073191
